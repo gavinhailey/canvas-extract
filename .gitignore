@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+*.log
+tokens/*
+build/
+/src/main/resources/credentials.json
